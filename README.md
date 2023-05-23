@@ -65,7 +65,6 @@ Here is the link to download the apk
 * [Kotlin](https://kotlinlang.org/docs/home.html)
 * [Compose](https://developer.android.com/jetpack/compose/documentation)
 * [Hilt](https://developer.android.com/training/dependency-injection/hilt-android)
-* [Room](https://developer.android.com/training/data-storage/room)
 * [State](https://developer.android.com/reference/kotlin/androidx/compose/runtime/MutableState)
 * [Moshi](https://github.com/square/moshi)
 * [Coroutines](https://developer.android.com/kotlin/coroutines) 
