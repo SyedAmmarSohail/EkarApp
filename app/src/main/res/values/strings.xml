@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">EkarApp</string>
+    <string name="ekar">ekar</string>
+    <string name="service_fetch_error">Service Error</string>
+    <string name="network_error">Network Error</string>
+    <string name="colors">Colors</string>
+    <string name="About_the_vehicle">About the vehicle</string>
+    <string name="equipment">Equipments</string>
+    <string name="warranties">Warranties</string>
+    <string name="price">Price</string>
+    <string name="key_features">Key Features</string>
+    <string name="enter_comment">Enter comment</string>
+    <string name="image_upload_msg_description">Please upload clear photos of the vehicle to avoid liability of any damages caused before starting your reservation</string>
+</resources>
