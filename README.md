@@ -25,6 +25,7 @@
 # Table of Contents
 
 - [Screenshots](#screenshots)
+- [Download Apk](#download-apk)
 - [Tech Stack](#tech-stack)
 - [Installation](#installation)
 - [Architecture](#architecture)
@@ -49,6 +50,13 @@ hspace="10" vspace="10">](https://drive.google.com/uc?export=view&id=12a6QhJtpVE
 [<img src="https://drive.google.com/uc?export=view&id=1k5YRI2dyNYgthtYaDY9tVQxhRmBVjeUr" align="center"
 width="200"
 hspace="10" vspace="10">](https://drive.google.com/uc?export=view&id=1k5YRI2dyNYgthtYaDY9tVQxhRmBVjeUr)
+
+
+<!-- download-apk -->
+### Download Apk
+
+Here is the link to download the apk 
+<a href="https://drive.google.com/file/d/1idl6tduAWQm_CEFogXHB1-S0yblwJNh6/view?usp=share_link">Ekar App</a> 
 
 
 <!-- TechStack -->
