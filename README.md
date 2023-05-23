@@ -72,7 +72,6 @@ Here is the link to download the apk
 * [Retrofit](https://square.github.io/retrofit/) 
 * [Mockk](https://mockk.io/)
 * [Truth](https://truth.dev/)
-* [Custom Pagination]()
 
 Mutable state is used in this project instead of Flows.
 
@@ -101,7 +100,7 @@ GOOGLE_MAPS_API_KEY= **YOUR_GOOGLE_MAP_API_KEY**
 
 Used layer-based clean architecture in which include data, domain and presentation layer.
 
-- **Data layer -** Manages application data eg. retrieve data from the network, manage local data cache
+- **Data layer -** Manages application data eg. retrieve data from the network
 
 - **Domain layer -** Contains business logic with separate usecases
 
